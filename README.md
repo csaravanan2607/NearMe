@@ -1,8 +1,9 @@
-# Ex04 Places Around Me
-## AIM
+# Places Around Me
+# EXP - 4
+## AIM :
 To develop a website to display details about the places around my house.
 
-## DESIGN STEPS
+## DESIGN STEPS :
 
 ### STEP 1
 Create a Django admin interface.
@@ -22,7 +23,7 @@ Write HTML programs for all the regions identified.
 ### STEP 6
 Execute the programs and publish them.
 
-## CODE:
+## CODE :
 ### map.html
 ```
 
@@ -171,7 +172,7 @@ There is no dearth of good cinemas in Tiruvannamalai. And, the theatre in Tiruva
 </body>
 </html>
 ```
-## OUTPUT:
+## OUTPUT :
 ![out1](https://github.com/NaveenSivamalai/NearMe/assets/123792574/25322047-c5a0-4ab0-9552-d250045b016b)
 
 
@@ -188,7 +189,7 @@ There is no dearth of good cinemas in Tiruvannamalai. And, the theatre in Tiruva
 
 ![Screenshot (116)](https://github.com/NaveenSivamalai/NearMe/assets/123792574/28005b7f-6c74-4444-b216-5faafc97ec5c)
 
-## HTML VALIDATOR:
+## HTML VALIDATOR :
 ![HTML VALIDATOR](https://github.com/NaveenSivamalai/NearMe/assets/123792574/2faf34d8-c8b6-4162-855c-4b017875b321)
-## RESULT
+## RESULT :
 The program for implementing image maps using HTML is executed successfully.
