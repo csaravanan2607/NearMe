@@ -189,7 +189,5 @@ There is no dearth of good cinemas in Tiruvannamalai. And, the theatre in Tiruva
 
 ![Screenshot (116)](https://github.com/NaveenSivamalai/NearMe/assets/123792574/28005b7f-6c74-4444-b216-5faafc97ec5c)
 
-## HTML VALIDATOR :
-![HTML VALIDATOR](https://github.com/NaveenSivamalai/NearMe/assets/123792574/2faf34d8-c8b6-4162-855c-4b017875b321)
 ## RESULT :
 The program for implementing image maps using HTML is executed successfully.
